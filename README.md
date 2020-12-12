@@ -3,15 +3,17 @@
 
 # Overview
 
-1.At start the car dost know anything so first it will explore the environment, and there is a goal given to the car that is to go from bottom right to top left 
+1.At start the car dost know anything so first it will explore the environment, and there is a goal given to the car,that is to go from bottom right to top left. 
 
 2.It will find its way to do it, just git it some time.
 
-3.One it doses you can draw anything such as buildings and roads as an obstacle to test the AI, It might end up going in subconscious mode clearing the object or drawing the object might help.
+3.You can draw anything such as buildings and roads as an obstacle to test the AI 
 
-4.You can save the trained brain of the AI with the save button and load it whenever you want with the Load button and can clear your drawing with the clear button.
+4.AI It might end up going in subconscious mode clearing the object or drawing the object might help.
 
-5.One thing we can conclude that it doesn't matter what type of obstacle you draw the AI will reach its goal. 
+5.You can save the trained brain of the AI with the save button and load it whenever you want with the Load button and can clear your drawing with the clear button.
+
+6.One thing we can conclude that it doesn't matter what type of obstacle you draw the AI will reach its goal. 
 
 **First thing to do is to download the libraries**
 
