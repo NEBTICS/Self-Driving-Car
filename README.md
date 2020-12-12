@@ -1,16 +1,17 @@
 # Self-Driving-Car
 
 
-# About the idea and working 
-1.At start the car dost know anything so first it will explore the goal given to the car is to go from bottom right to top left 
+# Overview
 
-2.It will find its own way to do it just git it some time
+1.At start the car dost know anything so first it will explore the environment, and there is a goal given to the car that is to go from bottom right to top left 
 
-3.One it doses you can draw anything such as buildings and roads as an obstacle to test the AI 
+2.It will find its way to do it, just git it some time.
+
+3.One it doses you can draw anything such as buildings and roads as an obstacle to test the AI, It might end up going in subconscious mode clearing the object or drawing the object might help.
 
 4.You can save the trained brain of the AI with the save button and load it whenever you want with the Load button and can clear your drawing with the clear button.
 
-5.Its a simple prototype of an AI 
+5.One thing we can conclude that it doesn't matter what type of obstacle you draw the AI will reach its goal. 
 
 **First thing to do is to download the libraries**
 
@@ -33,4 +34,4 @@ conda install -c conda-forge kivy --if it doesn't works check out - https://anac
 
 4.You can draw your custom drawings and roads on the screen directly **Note:-Its recommended that don't enlarge the window as it might throw an error due to pc variation, It might work might not you can try..** 
 
-Check us out on https://www.instagram.com/neb.tics/
+Check out us on https://www.instagram.com/neb.tics/
