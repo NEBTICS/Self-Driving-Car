@@ -5,7 +5,7 @@
 
 1.At start the car dost know anything so first it will explore the environment, and there is a goal given to the car,that is to go from bottom right to top left. 
 
-2.It will find its way to do it, just git it some time.
+2.It will find its way to do it, just give it some time.
 
 3.You can draw anything such as buildings and roads as an obstacle to test the AI 
 
